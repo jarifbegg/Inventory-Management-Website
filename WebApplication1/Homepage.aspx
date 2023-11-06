@@ -71,7 +71,7 @@
                             
                             <asp:LinkButton ID="LinkButton8" runat="server" CssClass="link" >Know the developers.</asp:LinkButton>                                
                                 
-                             <p style="color:whitesmoke">IT-PHQ</p>
+                             <p style="color:whitesmoke">IT</p>
                         </p>
                     </div>
                     </div>
